@@ -18,7 +18,7 @@ The price for these three items is €111.90, or $130.10. The maximum budget per
 
 I then turned my attention to the wood design. I think we should use 15 mm birch plywood, which currently costs around €40/m²—or $47/m².
 
-For the internal design of the enclosures, I think I’ll take inspiration from the design I found on this [site](https://www.astuces-pratiques.fr/high-tech/plan-de-construction-d-enceinte-sono)—though I know I need to perform calculations based on the selected driver, the horn, and so on. I’ll look into that over the next few days. You can see the image just down this text. Over the next few days, I will also model this design in Fusion 360 to perform calculations more quickly and make modifications more easily.
+For the internal design of the enclosures, I think I’ll take inspiration from the design I found on [this site](https://www.astuces-pratiques.fr/high-tech/plan-de-construction-d-enceinte-sono) though I know I need to perform calculations based on the selected driver, the horn, and so on. I’ll look into that over the next few days. You can see the image just down this text. Over the next few days, I will also model this design in Fusion 360 to perform calculations more quickly and make modifications more easily.
 
 ![Schéma 1](images/shema-1.png)
 
