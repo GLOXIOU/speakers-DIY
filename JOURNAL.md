@@ -67,5 +67,13 @@ Here is all the data I need for the calculations. Everything will be filled in i
 
 The research sources are:
 * For the woofer: Thoman for [this doc](https://github.com/GLOXIOU/speakers-DIY/blob/main/docs/woofer-data.pdf), and [that site](https://petoindominique.fr/php/mysql_listehp3.php?marque=THE+BOX+SPEAKERS) for others stuff.
-* For the horn: The official [Monacor site](https://www.monacor.com/products/mrh-83/?lang=en&r=pdf)
-* For the compression driver: The product page [on Thomann](https://www.thomann.fr/the_box_pro_hochtoener_dsp_115.htm)
+* For the horn: The official [Monacor site](https://www.monacor.com/products/mrh-83/?lang=en&r=pdf).
+* For the compression driver: The product page [on Thomann](https://www.thomann.fr/the_box_pro_hochtoener_dsp_115.htm).
+
+Here is the main information table:
+
+| Elements | Informations |
+|---|---|
+| **10-250/8-A** | **Fs:** 56.8 / 75.65 Hz · **Qts:** 0.38 / 0.392 · **Vas:** 33.3 / 19.35 L · **Sd:** 356.3 cm² · **Xmax:** ±2.0 mm · **Pe:** 250 W RMS · **Sens.:** 94 / 96.22 dB · **Re:** 5.8 / 5.62 Ω |
+| **DSP 115** | **Z:** 8 Ω · **RMS:** 45 W · **Bobine:** 44 mm · **Gorge:** 1⅜" · **Profondeur:** 55 mm |
+| **MRH-83** | **Gorge:** 25 mm / 1" · **Dispersion:** 90° H × 60° V · **Bande:** 1.8–18 kHz · **Dimensions:** 242 × 198 × 138 mm · **Poids:** 270 g |
