@@ -34,3 +34,33 @@ Today, I’m going to look into the question of amplification and share the thou
 So, for the amplification, I’d like to build active speakers, using an amplifier module and a DSP module for each speaker. Alternatively, I could build an external rack for instance, to use a single amplifier for all three speakers.
 
 The choice will depend mainly on one thing: whether or not I manage to secure full funding for the project. If not, the speakers will be passive and I do have a way to test them’but I would have to wait until later to actually use them for gigs or other events.
+
+I am now going to retrieve the data for the three main components and bring them together in one single location.
+
+Here is all the data I need for the calculations. Everything will be filled in in this file: [driver-data](https://github.com/GLOXIOU/speakers-DIY/main/docs/driver-data.md), as well as in a table in this log.
+
+| Woofer — 10-250/8-A | Compression Driver — DSP 115 | Horn — MRH-83 |
+|---|---|---|
+| Resonance frequency (Fs) | Resonance frequency (Fs) | Throat diameter |
+| DC resistance (Re) | Nominal impedance | Mouth width |
+| Nominal impedance | Minimum impedance | Mouth height |
+| Mechanical Q (Qms) | RMS power | Depth |
+| Electrical Q (Qes) | AES power | Horizontal dispersion |
+| Total Q (Qts) | Sensitivity | Vertical dispersion |
+| Equivalent volume (Vas) | Frequency response | Minimum frequency |
+| Effective cone area (Sd) | Recommended crossover frequency | Maximum frequency |
+| Maximum linear excursion (Xmax) | Maximum SPL | Frequency response |
+| RMS power | Voice coil diameter | Directivity |
+| Sensitivity | Throat diameter | Weight |
+| Voice coil inductance (Le) | Mounting type | |
+| Moving mass (Mms) | Dimensions | |
+| Compliance (Cms) | Depth | |
+| Force factor (BL) | Weight | |
+| Overall diameter | Frequency response curve | |
+| Cutout diameter | Impedance curve | |
+| Depth | | |
+| Weight | | |
+| Frequency response curve | | |
+| Impedance curve | | |
+| Phase response curve | | |
+| Directivity | | |
