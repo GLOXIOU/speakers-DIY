@@ -26,3 +26,11 @@ The question I'm asking myself now is whether to build passive or active speaker
 
 **Time spent today:** ~1.5 hours on research, and ~30 minutes on documentation, creating the repo, etc.  
 **Total spent:** 2h
+
+# Day 2: research and datasheet compilation
+
+Today, I’m going to look into the question of amplification and share the thoughts I had last night; above all, however, I’ll be gathering data from the manufacturers of the project's three main components to perform acoustic calculations and validate or reconside my choice of parts.
+
+So, for the amplification, I’d like to build active speakers, using an amplifier module and a DSP module for each speaker. Alternatively, I could build an external rack for instance, to use a single amplifier for all three speakers.
+
+The choice will depend mainly on one thing: whether or not I manage to secure full funding for the project. If not, the speakers will be passive and I do have a way to test them’but I would have to wait until later to actually use them for gigs or other events.
