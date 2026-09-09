@@ -78,5 +78,7 @@ Here is the main information table:
 | **DSP 115** | **Z:** 8 Ω · **RMS:** 45 W · **Bobine:** 44 mm · **Gorge:** 1⅜" · **Profondeur:** 55 mm |
 | **MRH-83** | **Gorge:** 25 mm / 1" · **Dispersion:** 90° H × 60° V · **Bande:** 1.8–18 kHz · **Dimensions:** 242 × 198 × 138 mm · **Poids:** 270 g |
 
+For the calculations and internal design of the enclosures, I will use [linearteam](https://www.linearteam.org/), a speaker designing software for Windows.
+
 **Time spent today:** ~1.5 hours on research, and ~1 hour on documentation.
 **Total spent from the beginning:** 4h30
