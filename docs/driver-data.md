@@ -1,6 +1,6 @@
 ## Woofer — 10-250/8-A
 
-**Fs:** 56.8 Hz (Thomann) / 75.65 Hz (HiFi-Selbstbau)
+* **Fs:** 56.8 Hz (Thomann) / 75.65 Hz (HiFi-Selbstbau)
 **Re:** 5.8 Ω (Thomann) / 5.62 Ω (HiFi-Selbstbau)
 **Z:** 8 Ω
 **Qms:** 7.56 (Thomann) / 3.46 (HiFi-Selbstbau)
