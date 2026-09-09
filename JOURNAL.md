@@ -37,7 +37,7 @@ The choice will depend mainly on one thing: whether or not I manage to secure fu
 
 I am now going to retrieve the data for the three main components and bring them together in one single location.
 
-Here is all the data I need for the calculations. Everything will be filled in in this file: [driver-data](https://github.com/GLOXIOU/speakers-DIY/main/docs/driver-data.md), as well as in a table in this log.
+Here is all the data I need for the calculations. Everything will be filled in in this file: [driver-data](https://github.com/GLOXIOU/speakers-DIY/blob/main/docs/driver-data.md), as well as in a table in this log.
 
 | Woofer — 10-250/8-A | Compression Driver — DSP 115 | Horn — MRH-83 |
 |---|---|---|
@@ -64,3 +64,5 @@ Here is all the data I need for the calculations. Everything will be filled in i
 | Impedance curve | | |
 | Phase response curve | | |
 | Directivity | | |
+
+The research sources are:
