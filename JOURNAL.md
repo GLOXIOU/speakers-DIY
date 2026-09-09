@@ -25,7 +25,7 @@ For the internal design of the enclosures, I think I’ll take inspiration from 
 The question I'm asking myself now is whether to build passive or active speakers. Active would be ideal, but it might not fit the budget. That’s why I’m also considering building an external amplifier myself—not from scratch, but using modules—which could turn out to be cheaper.
 
 **Time spent today:** ~1.5 hours on research, and ~30 minutes on documentation, creating the repo, etc.  
-**Total spent:** 2h
+**Total spent from the beginning:** 2h
 
 # Day 2: research and datasheet compilation
 
@@ -77,3 +77,6 @@ Here is the main information table:
 | **10-250/8-A** | **Fs:** 56.8 / 75.65 Hz · **Qts:** 0.38 / 0.392 · **Vas:** 33.3 / 19.35 L · **Sd:** 356.3 cm² · **Xmax:** ±2.0 mm · **Pe:** 250 W RMS · **Sens.:** 94 / 96.22 dB · **Re:** 5.8 / 5.62 Ω |
 | **DSP 115** | **Z:** 8 Ω · **RMS:** 45 W · **Bobine:** 44 mm · **Gorge:** 1⅜" · **Profondeur:** 55 mm |
 | **MRH-83** | **Gorge:** 25 mm / 1" · **Dispersion:** 90° H × 60° V · **Bande:** 1.8–18 kHz · **Dimensions:** 242 × 198 × 138 mm · **Poids:** 270 g |
+
+**Time spent today:** ~1.5 hours on research, and ~1 hour on documentation.
+**Total spent from the beginning:** 4h30
