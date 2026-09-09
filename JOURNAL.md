@@ -67,3 +67,5 @@ Here is all the data I need for the calculations. Everything will be filled in i
 
 The research sources are:
 * For the woofer: Thoman for [this doc](https://github.com/GLOXIOU/speakers-DIY/blob/main/docs/woofer-data.pdf), and [that site](https://petoindominique.fr/php/mysql_listehp3.php?marque=THE+BOX+SPEAKERS) for others stuff.
+* For the horn: The official [Monacor site](https://www.monacor.com/products/mrh-83/?lang=en&r=pdf)
+* For the compression driver: The product page [on Thomann](https://www.thomann.fr/the_box_pro_hochtoener_dsp_115.htm)
