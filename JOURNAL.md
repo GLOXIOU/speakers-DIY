@@ -24,8 +24,7 @@ For the internal design of the enclosures, I think I’ll take inspiration from 
 
 The question I'm asking myself now is whether to build passive or active speakers. Active would be ideal, but it might not fit the budget. That’s why I’m also considering building an external amplifier myself—not from scratch, but using modules—which could turn out to be cheaper.
 
-**Time spent today:** ~1.5 hours on research, and ~30 minutes on documentation, creating the repo, etc.  
-**Total spent from the beginning:** 2h
+**Time spent today: 1.5**
 
 # Day 2: research and datasheet compilation
 
@@ -80,5 +79,4 @@ Here is the main information table:
 
 For the calculations and internal design of the enclosures, I will use [linearteam](https://www.linearteam.org/), a speaker designing software for Windows.
 
-**Time spent today:** ~1.5 hours on research, and ~1 hour on documentation.
-**Total spent from the beginning:** 4h30
+**Time spent today: 1.5h**
